@@ -522,7 +522,7 @@ def get_scenario_max_time_delta(obstacles_path):
 
 
 def main():
-    target_data_type = 'vc'
+    target_data_type = 'vv'
     # prepare
     # input path
     dataset_path = '/DATA1/liyang/M2I_2/obstacles_tLights'
